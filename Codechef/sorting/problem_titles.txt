@@ -1,0 +1,179 @@
+Racing Horses - HORSES
+The Smallest Pair - SMPAIR
+Qualifying to Pre-Elimination - QUALPREL
+Maximum Weight Difference - MAXDIFF
+Missing a Point - PTMSSNG
+Chopsticks - TACHSTCK
+Frog Sort - FROGS
+Max Mex - MEX
+Chefina and Swaps - CHFNSWPS
+Balanced Reversals - BALREV
+Mix the Colors - MIXCOLOR
+Total Correct Submissions - TOTCRT
+Gift Shop and Coupon - GFTSHP
+Sereja and Sorting - SEASOR
+Ups and Downs - ANUUND
+Chef and Party - CHFPARTY
+Chef and Interesting Subsequences  - CHEFINSQ
+ChefWatson uses Social Network - BOOKCHEF
+Chef and Employment Test - CK87MEDI
+Watching CPL - WIPL
+Simple Statistics - SIMPSTAT
+Chef of the Year - CVOTE
+Chef and Eid - EID
+Swapping Chefs Way - SWAPCW
+Bear and Extra Number - EXTRAN
+Chef and Card Trick - CARDMGK
+Snake Eating - SNAKEEAT
+Chef and easy problem - CHEFA
+Ordering teams - ORDTEAMS
+Average Flex - AVGFLEX
+Cool Name - CALPOWER
+Doubled Distances - DOUBLEDDIST
+Lowest Sum - LOWSUM
+Plane Division - PLANEDIV
+Another Birthday Present! - SHUFFLE
+B - Valentine Couples - VCOUPLE
+Andrew and the Meatballs - AMMEAT
+Mighty Friend - MTYFRI
+Sorting Tool - KJCP01
+Problem Sort - PROBLEMS
+Bon Appetit - FGFS
+Little Elephant and Lemonade - LELEMON
+Watson asks Does Permutation Exist - PERMEXIS
+Chain of Doughnuts - DONUTS
+Chef and Polygons - CHPLGNS
+Chef and Weird Queries - CK87QUER
+Capital Movement - CAPIMOVE
+Little Elephant and Music - LEMUSIC
+Distinct Elements - DISTELE
+Team Split - TMSLT
+Chef and Patients - CHEFPAT
+Cheating Time - CTIME
+Quentin Tarantino - KOL16J
+01 Subsequence - ZEROONE
+Matryoshka Dolls - AMR14D
+Permutation Shuffle - PERMSUFF
+Bhallaladeva - AMR15D
+Clear the Array - CLEARARR
+Simple Operations - MINOPS
+Euron Problem - EURON
+Suffix Sort - ICM0001
+Laboratories - GOOGOL05
+Chef and Minimum Colouring - CAMC
+Ratings and Rankings - ELOMAX
+Distribute Candies - DCANDY
+Painting - PNTNG
+Pishty and Triangles - PSHTRG
+Chef and Line - CARRAY
+Yet Another Nice Girl - ARRGAME2
+Minimizing the dot product - BITMASK2
+Knapsack Problem - KNPSK
+Pishty and tree - PSHTTR
+Protecting The Poison - PROTEPOI
+How to Minimize a String - DIVGOLD
+Chef&#39;s Dream - DREAM
+Physics Class - PHYSICS
+Different Subarrays Rearrange - DIFSUBARRAYS
+Stack-Queue Sort (Challenge) - SQSORT
+Lucy and the Number Game - NUMBERS
+Game with numbers - GAMENUMB
+Chef and K Segments - CHEFKO
+Chef Challenge - CHFCH
+D - Pilgrims Destination - PILGRIMS
+Bye, inversions! - ACM14KP2
+Churu and lost string - CLOST
+Maximum K Sums - KSUM
+Strings and Graphs - STRINGRA
+Give those children some toys! - ECJN203
+Skiing - SKIING
+Monica and toys - NPLELA
+Tower Counting - TOWCNT
+Optimize The Slow Code - OPTCODE
+DESORT - DSORT
+Library and Headcount - ACMICL3
+The making of a cake - KOL1504
+BOX REDUCTION - BXRED
+The Crofts Game - CROFT
+Chef Up - CHEF7UP
+Puppy and Catchers - PPCTS
+Influence on Social media - AMR16C
+Fly height mode - FLYMODE
+Strange Swaps - STSWAP
+Radix Sort - RDX
+Who is at kth position - INSQ15_E
+Rearranging Cartons  - REACAR
+Match the Streams - MATCH2
+XMAS Factory - SNTFAC3
+Chef and midsems - CHEFEXAM
+Chef and  Array - EXPCODE1
+Wrong Answer - CLCO06
+Final Exams - HW2C
+Willows Sort - WISORT
+candies - DIFRNCE
+Cleaning Drive - DRIVE
+Alien Chefs - DOWNLOAD
+Teddy and his Mission - LAEDDIS
+Captain Party - SCC0103
+Olympic Village - KGP13B
+Amplification - NPLQ19C
+The Dirty Path - ANUTDP
+Icing on cake - IOC
+Chef and Chocolate - CHOLAT
+Snakes capturing the Mongoose Cities - CAPTCITI
+Mathology - MATHOLOGY
+Mr Swegwan and Arrays - SWEGARR
+Sereja and Pairs - SEAPAIR
+Crash It - CRSHIT
+Matrix Median - GEEK01
+The Typist - FINDMEEE
+Captain and his Shield  - CAPTAIN
+Save the nature - SVNTR
+Chef and Cards - CL16BD
+Sarthak and his Set of Primes - PRIMESETMUL
+Write Word Quickly - KETFAST
+Min Manhattan Distance - MINMANH
+Building Permutation - CDX1604
+Arush Challenge - CLCO03
+Hemu Class Attendance - GEEK03
+Writing Numbers - LOSTNUM
+I want Goodies - GOODS
+Hopscotch - CLCO04
+Counting The Acute Triangles - TAACUTE
+Breaking Profit - BRKPR
+Naruto and Chunin Exams - ECAPR209
+Justify - JFY
+By Hook or By Crook - INQU2002
+Chef and Range - CHEFAMPP
+THE SEIGE - SEIGE
+The Last Droid - R2D2
+Shikamaru has Queries - ECAUG209
+Team - TM
+Chef and strings  - CHFSTR
+Jon and Shop - JSHOP
+PHOTOGEN - PHTGEN
+Motu And Segmented Coins - MCOINS
+Naruto meets Nuttela - SS6
+Cut the Stick - REL102
+Chamber of Secrets - ALORA2
+Stair Sequence - STAIRSEQ
+The Selection - THESELEC
+Animesh has a war with tribal leader Malvika - CHN11
+Fresher Party - FRSHP
+Vada Pavs - CHAAT2
+Phoebe and Her Fitness Class - PHBCLS
+Cold Water - COLDPANI
+Connect Coordinate - INQU2007
+Cracker shops - ACM14KG1
+Disciple Training - CLDSTR
+Time Travel - COCR102
+Alice and Array - AARRAY
+Max Min Circle Difference - MAXMINCRCDIF
+Decode IP - DCODIP
+Chef and Recruits - SSORT1
+Swap Group (keteki) - QM6P5B
+Binary Matrix - BINMAT
+REACH CMRTC - REACHCMR
+Lazy Sagar - LZLYF
+Make It To Work - MKWRK
+Truth and Lie - TRAL

@@ -1,0 +1,51 @@
+Naive Chef - NAICHEF
+Three Dices - THREDICE
+Funny Hand - FUNHAND
+Random Pair - RNDPAIR
+Ready Bitwise - REBIT
+Predictopus - PREDICT
+The Probability Of Winning - PROB
+Bad Shuffle - BSHUFFLE
+Guess It Right - GUESSRT
+Chef and His Friend - FRNDMTNG
+Little Elephant and Exams - LEEXAMS
+Yet Another Nice Girl - ARRGAME2
+Player - RRPLAYER
+Field Trip - FTRIP
+Choosing from Buckets - BUCKETS
+Magician versus Chef 2 - MAGICHF2
+A Plus B Again! - TAAPLUSB
+Expected Number of SCCs - RCTEXSCC
+Sereja and Game 2 - SEAGM2
+Code Koroo Naaa - CODEKARO
+Little Elephant and Bubble Sort - LEBOBBLE
+Tennis Tournament - TOURNAM
+Filling the maze - THEGAME
+Battle Royale - BTTLRYL
+Random OR - RANDOMOR
+Andrew and the Birthday - LEFEED
+Monty Hall Paradox 2 - MHP2O
+Expected Maximum Matching - MATCH
+Scoring Pairs - APAIRS
+Chef Cuts Tree - CUTTREE
+Proprietary Probabilistic Problem - KALADIN
+SOKKA ON TRIP - COW3F
+Stand Up - STANDUP
+Kevin and the Cube - KCUBE
+Chef and Tennis - TENNIS
+Chef and Sort - CHEFONM
+Strange Queries - STQ
+Asya & Coloring - ASYA3
+Chef Raffle - RAFFLE
+Wormtongues Mind - MINMAX
+Shooting Birds - IITK1P08
+Lockdown Day 7 - DAY7
+Hill Sequence - HILLARR
+Fuzzy Addition - FUZZYADD
+Teaming in Tournament of Power - TEAMTOP
+Binary String Randomizer - BINSTRRAND
+Random Number Generator - RNG97
+Overhead Attack - CLATTK
+Painting a Town - KGP16G
+Clever Chan - PRPR6
+Lazy Sagar - LZLYF

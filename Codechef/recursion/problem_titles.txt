@@ -1,0 +1,39 @@
+Fit Squares in Triangle - TRISQ
+Connecting Soldiers - NOKIA
+Special Fibonacci - FIBXOR01
+Lock-Free Stack - LFSTACK
+Philosophers Stone - ALORA1
+Chef and math - CHEFMATH
+Fire and Ice - FICE
+Jerry Cheese - REC09A
+A Simple Sum - IITK1P07
+How to Write a Message - STRAB
+Dream Problem - DRMP
+Reach The Temple - TEMPLE
+Count the Ones - COUNTONES
+Jump & Reach - JUMPLS1
+Monsters Battle - MONSTBAT
+And Tuples - ANDTUPLE
+Code Together - CMX1P01
+Dearrangement Error - DEARRERR
+Musical Chairs - INQU2001
+Restore the Permutation - RESTPERM
+Hidden Permutation - HIDPERM
+Busy-ness - GOOGOL03
+Foolish formation - FOOLFORM
+Goblet of Fire - ALORA4
+Remove Sub-Array - REMLS1
+Chamber of Secrets - ALORA2
+Matki Phod - MATP
+Square from matchsticks - MATCHSTICK
+Half Blood Prince - ALORA6
+Valid Sub-Sequences - SUBSLS1
+Sports Day - SPRTD
+Euro - EURO
+Domino Tiling - TILDOM
+Chef, Drive and Fuel - CHDF
+Mario and the Princess - MARPATH
+Deathly Hallows - ALORA7
+Order Of The Pheonix - ALORA5
+Batman vs Joker - CDIT04
+MOBILE LOCKED - MOBLOCK

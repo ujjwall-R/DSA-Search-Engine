@@ -1,0 +1,24 @@
+Print Sub-Array - ARRLS1
+Laxman and Maths - LAXMAN
+Raavan and Sub-Array - RAAVANCH
+Get on the String - STRLS1
+Derive Good String - GOODLS1
+Lord Ram and XorOrXorOr Power - RPOWER
+Bharat and Possibilities - BHARAT
+Is Sum Possible - POSLS1
+Hanuman and Tree - HTREE
+Jump & Reach - JUMPLS1
+Chef and Palindrome - EXOCODE3
+Snake And Arena - SNAR
+Luv Kush and FX Sequence - FXSEQ
+Sita Mata and Time Machine - STIMEMCH
+Generous Raju - CHRIST02
+Remove Sub-Array - REMLS1
+Valid Sub-Sequences - SUBSLS1
+Letter Count - LETCNT
+Modified Jenga - WINLS1
+Check Repeat - REPLS1
+Minimum String Palindrome - SHPAL
+Get Function Value - FUNCLS1
+Sam in the cave - SRTX16D
+Compacted String - SQMA02

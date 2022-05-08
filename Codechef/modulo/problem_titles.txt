@@ -1,0 +1,27 @@
+Mutated Minions - CHN15A
+Easy Fibonacci - FIBEASY
+Multiple of 3 - MULTHREE
+Chef and Adventures - CHEFADV
+Chefs in Queue - CHFQUEUE
+Three Different Numbers - THREEDIF
+Chef and Modulo Game - MGAME
+Binary XOR - BINXOR
+Crazy Malvika discovers Crazy Fibonacci function - CHN08
+Palindrome - TAPALIN
+Sums - PRCN16B
+Chef and Ice Cream - CAICE
+BOND - BOND
+Sagar And Strings - SGRSTR
+Subset query - CDVA1607
+Santosh and yoga - GOC204
+Bright Number - BRTNUM
+Peaceful Calculator - ZENCALC
+Digvijay vs Supriya - GOC201
+PHOTOGEN - PHTGEN
+Chef the Brave Warrior - EXOCODE5
+Anay and Polynomial - EXUNE
+Inverse Binomial Coefficient - INVBINCF
+University Meeting - UNIVMT
+Electronics Project - CIRCUIT
+Petr Visits ISM - GOOGOL01
+Fill Matrix Safely - MATFILL

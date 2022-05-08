@@ -1,0 +1,5 @@
+Sorting Tool - KJCP01
+Minimizing the dot product - BITMASK2
+Selmon Bhoi and Aish - IMPRS
+Magic Hull - HULL
+playing with P n C - PERMUTTT
