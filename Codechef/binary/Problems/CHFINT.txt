@@ -1,0 +1,116 @@
+
+One day Chef got a job offer for the position of Data Analyst in a very Famous company. He went to the company office for the interview. During the interview the interviewer got very impressed with Chef's Knowledge and Chef got the job. After the interview, the  interviewer gave him an offer thet he will be offered the position of Senior Data Analyst if he can answer one question of the Interviewer. Chef agrees to take the offer. The interviewer asked chef to write a program to perform the following operation, Given a string S of binary numbers of length N he has to find the the corresponding column title as present in an Excel Sheet for the decimal representation of the string. 
+Example : 
+00001->01->A
+00010->02->B
+00011->03->C
+00100->04->D
+. . .
+11010->26->Z
+11011->27->AA
+11100->28->AB
+. . ..
+Being chef's friend your task is to help chef find the column title for the binary string and get the job of Senior Data Analyst.
+Note: Assume there are no binary string whose decimal value is equal to 0 
+Input
+
+
+
+			The first line of the input contains a single integer T denoting the number of test cases. The description of T test cases follows.
+		
+
+
+		The first line of each test case contains a single integer N denoting the length of the binary string.
+	
+
+		The second line of each test case contains a string of binary numbers.
+	
+
+
+Output
+
+
+		For each test case output a single line containing the corresponding column title for the binary string.
+
+	
+
+Constraints
+
+
+1 ≤ T ≤ 100
+
+
+1 ≤ N ≤ 104
+
+
+Example
+Input:
+ 5 
+ 1
+ 1
+ 3 
+ 101
+ 6 
+ 110010
+ 7 
+ 1111101
+ 11 
+ 10000000001
+
+
+
+Output:
+A 
+E 
+AX 
+DU 
+AMK 
+
+
+
+Author:
+1★rahul_ojha_07
+
+
+Editorial:
+https://discuss.codechef.com/problems/CHFINT
+
+
+Tags:
+
+               
+                 binary, enoc2018, rahul_ojha_07
+                 
+               
+             
+             
+
+
+
+                        Difficulty Rating:
+                    
+
+N/A
+
+
+Date Added:
+30-09-2018
+
+
+Time Limit:
+2 secs
+
+
+Source Limit:
+50000 Bytes
+
+
+Languages:
+PYTH 3.6, JAVA, C, CPP14, PYTH, PYP3, CS2, ADA, PYPY, TEXT, PAS fpc, NODEJS, RUBY, PHP, GO, HASK, TCL, kotlin, PERL, SCALA, LUA, BASH, JS, rust, LISP sbcl, PAS gpc, BF, CLOJ, D, CAML, swift, FORT, ASM, FS, WSPC, LISP clisp, SCM guile, PERL6, ERL, CLPS, PRLG, ICK, NICE, ICON, COB, SCM chicken, PIKE, SCM qobi, ST, NEM
+
+
+
+
+
+Submit
+

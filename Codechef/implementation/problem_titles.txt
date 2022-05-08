@@ -1,0 +1,166 @@
+Puppy and Sum - PPSUM
+Chef and Price Control - PRICECON
+Valid Pair - SOCKS1
+Coins And Triangle - TRICOIN
+Chef and Strings - CHEFSTR1
+Snake Procession - SNAKPROC
+Chef and Card Game - CRDGAME
+Chef and the Wildcard Matching - TWOSTR
+Chef and Rainbow Array - RAINBOWA
+Chef and Instant Noodles - INSTNOODLE
+Studying Alphabet - ALPHABET
+Fill the Bucket - FBC
+Even Matrix - EVENM
+Tyre problem - TYRE
+Self Defence Training - SELFDEF
+Buying New Tablet - TABLET
+Count the Holidays - SUNDAY
+Chef and Glove - CHEGLOVE
+Qualify the round - QUALIFY
+Snape and Ladder - SNAPE
+Car Choice - CARCHOICE
+Chef and Meetings - MEET
+Sign Moves - SIGNMOVE
+Lift Requests - LIFTME
+Chef Judges a Competition - CO92JUDG
+Cup Finals - CRICUP
+Whats in the Name - NITIKA
+Hard Sequence - HRDSEQ
+Economics Class - ECOCLASS
+Encoding Message - ENCMSG
+Important Pages on CodeChef - CHEFPAGES
+Plusle and Minun on Array - PMA
+Gasoline Introduction - BEGGASOL
+Chef and a Beautiful Digit - CHDIGER
+Check Algorithm - CHEALG
+Chef And The Patents - CHEFPTNT
+Print Pattern - PPATTERN
+Chef and Cube - CHCUBE
+Matrix Decomposition - MATBREAK
+Chef and Happiness - CHHAPPY
+Chef and Mover - CHEFMOVR
+Collisions - LCOLLIS
+Sticks and Rectangles - RECSTI
+Greedy Candidates - GCAC
+Bread - EGBOBRD
+Ready Bitwise - REBIT
+Chef Goes to the Cinema - CO92SUBW
+The Nights Watch - WTCH
+Event - EVENT
+Same Snake - SAMESNAK
+Operations on a Tuple - TTUPLE
+Chef and Problem Setting - PROBSET
+Bad Shuffle - BSHUFFLE
+Zenny and Simple Sum - SIPM
+Chef and Ants - ANTSCHEF
+Chef Restores a Matrix - CO92MATR
+Coloring the Grid - CLORGIRD
+OR Matrix - ORMATRIX
+Chef and Strange Matrix - CHEFBM
+Prefix Inversions - PREFINVS
+Chef and Two Queens - CHQUEENS
+Most Frequent Element - MFREQ
+emitL - EMITL
+Age Calculator - AGECAL
+Chefland and Average Distance - AVGMAT
+Mexy Array - MEXYARR
+Mike and Matrices  - MIKE1
+Sports Championship  - ZRACE
+Reverse Maximisation - REMMAX
+Sereja and ASum - LFEB14B
+Gaithonde owns a new home - GHOME
+Alien New Challenge - ALCHH
+Sereja and Line - SEALINE
+Playing with grids - INLO21
+Maximum K Sums - KSUM
+King Killing - KKLING
+Akhil And Random String - ASTRING
+Signature - SIGNTURE
+A Game of Balls - GAMEBALL
+Sereja and Arrays - SEARRAYS
+College Admissions - ADMIT
+Water Sort Puzzle (Challenge) - WTRSORT
+Action Beam - ACTNBM
+Kalakeya - AMR15C
+Query over Matrix - QMAXTRIX
+The Abominable Bride - CDVA1604
+Rubiks cuboid - INLO22
+Just multiply - LCH15JEF
+Corrupted Seven-Segment Display - SEVENSEG
+Puppy and Catchers - PPCTS
+Array Operation - SPIT04
+SATYUG RAHASYA - RHSAT
+Fitness Exercises  - EXERCISE
+Chef and GCD Game  - CHGCDG
+Infinitity - NPLELB
+Spy and Palindrome - RGSPY
+Kazi And The Contest - SPIT1
+Summation over nCr - SUMNCR
+Binary Strings - BINSTR
+Fast squarer - FSTSQ
+Monika And Song - MRS
+Sasha and Photos - PHOTOCOM
+Converese Palindrome - CONPAL
+Enter the Matrix - CDZ14A
+Hidden Sequence - HDDN
+Swati and Sstrings - DWW19H
+Sale of Watches - CKALP08
+Party - PARRTY
+Candidate walk - LCH15CD
+BOND - BOND
+Chef and Rotation - MTRXOP
+Neha and Special Number - NHSPN
+Halry vs Harry - CAKP05
+Queries with Bags - DSUBAGS
+Biased Judgement - BJUDGE
+Sereja and Pairs - SEAPAIR
+Magic Array - MAGARR
+King of Chefland - KNGPRB
+Quad Numbers - QUAD
+Building Permutation - CDX1604
+Equal Average - EQAVG
+Permutation Sorting Game - SRTGAME
+All Right - RDC3
+Tsetso Subarrays - A1016054
+Gym Freaks - GYMTYM
+Sticks - STICKS2
+Diagon Alley - DIAGON
+Sartaj drinks gotchi - GOTCHI
+Multiplication Program - MULDIG
+Count the regions - COUNTREG
+Save Wuhan - WUHAN
+First Impression - CC002
+Perry learns Binary - CLBIT
+Asya & Encoding - ASYA1
+Riku and Toys - CDX1605
+Chef and The String of Digits - STRDIG
+Chef and Bits - SPIT2
+Finding Second Maximum - F2NDMAX
+Help with distances - CHKDST
+UnAble to decipher - UNABLE
+Timestamps - KGP16C
+Min and Max - MIMAX
+Final Round - FINALR
+Tree Labelling - LABEL
+Easy One - CAC105
+Ichicka and Toys - IATOYS
+McHefs 3D Logo - LOGO
+Pairwise String Sums - STRSUM
+Chef and The Recursive Algorithm - DFSGRID
+Invert Case - MUYPN
+Puppy and Triangles - TUZTRN
+Steve and Gun - STAG
+Skill Improvement - SKLIMP
+RENOVATION - RENV20
+Ada Farm - ADAFARM
+Century Matrix - CNTMTX
+Key-bored - KEYBORED
+Help with string - CHKSTR
+Functions and Festivals - FUNFES
+C - Servant Sword Trials - FCF2P3
+Central Intelligence Pawgency - CAC203
+Professor Speaks Bits - BCLGBIT
+Solving Days - SDAY
+The Founder and The Ghost - SOPC013
+Find Sequence - K3006
+Balancing Act - BALANCE

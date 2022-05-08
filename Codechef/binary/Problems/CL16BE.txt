@@ -1,0 +1,82 @@
+
+Chef was talking to his friend about mathematical sequences and his friend gave the first few terms of a sequence to him: 7, 11, 13, 14, 19.... and wanted to know the kth number of the sequence. As this number may be very large, Chef only needs to find the number modulo 109+7. Chef is busy doing his day to day work, so he wants you, his programmer friend, to help by figuring out the pattern and solving the problem.
+Input
+The first line of the input contains an integer T denoting the number of test cases. The description of T test cases follows.
+
+Each test case consists of one line containing the number k.
+
+
+Output
+For each test case, output a single line containing the kth term of the sequence modulo 109+7.
+
+
+Constraints
+
+1 ≤ T ≤ 105
+1 ≤ k ≤ 106
+
+Example
+Input:
+5
+1
+3
+5
+8
+12
+
+Output:
+7
+13
+19
+25
+37
+
+
+
+
+Author:
+5★subham_75
+
+
+Editorial:
+https://discuss.codechef.com/problems/CL16BE
+
+
+Tags:
+
+               
+                 binary, colg2016, medium, pre-computation, subham_75
+                 
+               
+             
+             
+
+
+
+                        Difficulty Rating:
+                    
+
+N/A
+
+
+Date Added:
+30-09-2016
+
+
+Time Limit:
+1 secs
+
+
+Source Limit:
+50000 Bytes
+
+
+Languages:
+PYTH 3.6, JAVA, C, CPP14, PYTH, PYP3, CS2, ADA, PYPY, TEXT, PAS fpc, NODEJS, RUBY, PHP, GO, HASK, TCL, PERL, SCALA, LUA, BASH, JS, LISP sbcl, PAS gpc, BF, CLOJ, D, CAML, FORT, ASM, FS, WSPC, LISP clisp, SCM guile, PERL6, ERL, CLPS, PRLG, ICK, NICE, ICON, SCM chicken, PIKE, SCM qobi, ST, NEM
+
+
+
+
+
+Submit
+

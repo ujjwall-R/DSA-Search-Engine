@@ -1,0 +1,95 @@
+
+Chef is very popular in UnderBelly. He is known for his talent of making a dish worst or best by changing the ingredients. Once a programmer visits UnderBelly, and he got to know about the chef’s talent. The Programmer decided to test the chef. You are the chef, and you have to prove yourself by solving this problem.
+Given an array of integers, you can change at most KK number of elements by inverting any bit of a number at most one time (including zero). Such that
+
+when NN is even the resulting array is lexicographically maximum.
+else when NN is odd the resulting array is lexicographically minimum.
+
+Input:
+
+The first line of input contains a single integer TT denoting the number of test cases. The description of TT test cases follows.
+The first line of each test case contains two space-separated integers - N,KN,K respectively.
+The second line of each test case contains NN space-separated integers A1,A2,…,ANA1,A2,…,AN respectively.
+
+Output:
+For each test case, print a single line containing NN space-separated integers ― the changed array.
+Constraints
+
+1≤T≤1031≤T≤103
+1≤K≤N≤1031≤K≤N≤103
+1≤Ai≤1091≤Ai≤109 for each valid i
+
+Sample Input:
+    4
+    6 1
+    1 2 3 4 5 6
+    8 2
+    8 7 15 31 16 14 18 48
+    3 3
+    12 22 32
+    5 5
+    1 2 3 4 5
+
+Sample Output:
+1 3 3 4 5 6
+12 7 15 31 24 14 18 48
+4 6 0
+0 0 1 0 1
+
+EXPLANATION:
+Example case 1:
+The array can be changed to make it lexicographically maximum by inverting the LSB bit of 22.
+Example case 2:
+The array can be changed to make it lexicographically maximum by inverting a bit of 88 and 1616 to make them 1212 and 2424 respectively.
+8→10008→1000           16→1000016→10000
+12→110012→1100       24→1100024→11000
+
+
+
+
+Author:
+3★beast787
+
+
+Editorial:
+https://discuss.codechef.com/problems/CHEFPROG
+
+
+Tags:
+
+               
+                 beast787, binary, bit-manipulation, c-plus-plus, easy-medium, medium
+                 
+               
+             
+             
+
+
+
+                        Difficulty Rating:
+                    
+
+N/A
+
+
+Date Added:
+7-01-2021
+
+
+Time Limit:
+1 secs
+
+
+Source Limit:
+50000 Bytes
+
+
+Languages:
+CPP17, PYTH 3.6, JAVA, C, CPP14, PYTH, PYP3, CS2, ADA, PYPY, TEXT, PAS fpc, NODEJS, RUBY, PHP, GO, HASK, TCL, kotlin, PERL, SCALA, LUA, BASH, JS, rust, LISP sbcl, PAS gpc, BF, CLOJ, R, D, CAML, swift, FORT, ASM, FS, WSPC, LISP clisp, SQL, SCM guile, PERL6, ERL, CLPS, PRLG, SQLQ, ICK, NICE, ICON, COB, SCM chicken, PIKE, SCM qobi, ST, NEM
+
+
+
+
+
+Submit
+

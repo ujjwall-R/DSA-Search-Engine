@@ -1,0 +1,18 @@
+Encoded String - DECODEIT
+From Rational to Binary - REALBIN
+Binary XOR - BINXOR
+Addition - BINADD
+Bank robbery - BANROB
+Mr Wireless - KOL16H
+Carry All Fruits - BASKETS
+Chef and Binary Strings - CHFBINS
+large fibonacci - SRTX16B
+Quad Numbers - QUAD
+Dividing the Students - DIVIDE
+Gaming Inversion - INVERT
+Sherlock and the uncaught Murderer - SHER
+Cats of Schrodinger - ACMICL2
+Chef and Interview - CHFINT
+Chef and Programmer - CHEFPROG
+Plus Xor Increase - PLUSXORINCR
+Chef and Series - CL16BE
