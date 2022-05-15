@@ -1,0 +1,107 @@
+The Lead Game - TLG
+Little Elephant and Candies - LECANDY
+Football - MSNSADM1
+Kitchen Timetable - KTTABLE
+That Is My Score! - WATSCORE
+Temple Land - TEMPLELA
+Closing the Tweets - TWTCLOSE
+Deputy Chef - DEPCHEF
+Workers - CHEFWORK
+Economics Class - ECOCLASS
+Replace for X - REPLESX
+Plusle and Minun on Array - PMA
+Array Modification - MARM
+Magic Elements - ZOZ
+Chef and Recipe - CHEFRECP
+Subsegment Divisibility  - SEGDIV
+Decomposition Reaction - DCP
+A temple of Snakes - SNTEMPLE
+Average of Pairs - AVGPR
+Zenny and Simple Sum - SIPM
+Pogo Stick Competition - POGOSTCK
+Long Long Sum - BC106
+OR Matrix - ORMATRIX
+Print Sub-Array - ARRLS1
+Frequency Array - FREQARRY
+Gold Collection - GOLDTRIP
+Logging in the computer - ACM14KN3
+Count Substrings - SBSTR
+The Array Problem - ARRPROB
+Chef and Array Update - EXOCODE4
+Multiply the Array - MULARR
+Coin Game - CMED01
+Get on the String - STRLS1
+Solve The Case - BC202
+Chef and Arrays - NUTLOOP
+Derive Good String - GOODLS1
+Game of Chef - CHGM1
+Compartment Weights - TRAINWT
+Arranging the numbers - LEFROT
+Birthday of Anabelle - BDYGFT
+Ganesh Impresses Jojo - RPH001
+Cyclothon - CDIT01
+Championship - CSHIP
+Fill the Truck - FLTRCK
+Is Sum Possible - POSLS1
+Spy and Palindrome - RGSPY
+Even and Odd - EVEODDEQ
+CivilWar - CVW
+String Generation - STRGGEN1
+Chef and Data Transfer - CHFDT
+XMAS Factory - SNTFAC3
+Chefland Masterchef - NBC003
+Chef and  Array - EXPCODE1
+Ants of the Norfolk Island - ARGTS
+Just Substract IT - JUSTSUBS
+Weak in the Middle - WEAKMID
+Please Help !! - CR3
+Chef And game - MDSB
+CHEF GOES FOR A DATE - ERROR02
+Playing  With Array - NBC006
+Agent Chef - CDIT03
+Chef and Test - CL16BA
+Chef and Chocolate - CHOLAT
+Fight Club - NPLFLB
+Mean Array - MEANARR
+Rearrange the gifts - REAGIFT
+Find the Students - RIT02
+Plus One - ARRCHEF1
+Maximum Money - MAXMON
+Legend of Zelda - LNK1
+Chef team - CRCTEAM
+Finding The Lost One - FINLOT
+Chef and Wave - CHFWV
+Chef and Start - CHEFSTRT
+Arrays Sum - ARRAYSUM
+Encrypt Message - CHO1
+Shift and Push - PRCS16B
+Reap What You Sow - SOPC012
+Chef and Restaurant - CHFRST
+Array operations - ARRAY_OPS
+Sheldon and trains - TRN2
+Birthday xor - COINBX
+Jumping Jack - SRTX16C
+The Samosa No - SAMN
+Sweet Shops of Kolkata - KGP16D
+Toy Story - COINYS
+The Mountaineer - CLMBMNT
+Misery Meeta - MISMEETA
+Chef and Range - CHEFAMPP
+Beautiful Ranges - RANGES
+Help with tree - CHKTRE
+Help with distances - CHKDST
+Suyash and Queries - COINSM
+People At Party - PEPART
+Sachin and Large Number - COINLNUM
+Tony and Stocks - TSTOCK
+Pastry flavors - CRCFLAV
+Tell The Digit - TTD
+Max power of sage - MAXPOW
+Make Palindrome - MPAL
+Walking around lake - LAKWAK
+Sports Day - SPRTD
+Experiment of Chef - MAXPROD
+Save The City - FINDID
+Reverse Engineering Problem 5 - REVENG05
+Reverse Engineering Problem 2 - REVENG02
+Help on array - CHKAR
