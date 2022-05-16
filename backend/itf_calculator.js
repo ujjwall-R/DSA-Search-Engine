@@ -1,5 +1,6 @@
 const fs = require("fs");
 const keyword_extractor = require("keyword-extractor");
+const { type } = require("os");
 const { normalize } = require("path");
 var path = require("path");
 var process = require("process");
@@ -40,37 +41,64 @@ const keywordArrayOfAll = keyword_extractor
     remove_duplicates: true,
   })
   .sort();
-console.log(keywordArrayOfAll);
+// console.log(keywordArrayOfAll);
 
 //making of ITF matrix
+const readFiles2 = async () => {
+  try {
+    const fileNames = await fs.readdirSync(ProblemDirectory);
+    // console.log(fileNames);
+    const promises = fileNames.map((fileName) =>
+      fs.readFileSync(path.join(ProblemDirectory, fileName), "utf-8")
+    );
+
+    const contents = await Promise.allSettled(promises);
+    // console.log(contents);
+    return contents; //array of objects
+    // contents.forEach((content) => console.log(content));
+  } catch (err) {
+    console.log(err);
+  }
+};
+
+readFiles2().then((data) => {
+  let strAll = "";
+  data.forEach((d) => {
+    strAll += d.value;
+  });
+  const totalKeys = keyword_extractor.extract(strAll.toLowerCase(), {
+    language: "english",
+    remove_digits: true,
+    return_changed_case: true,
+    remove_duplicates: true,
+  });
+  // console.log(totalKeys);
+
+  let itfValuesOfAllKeywords = [];
+  for (let i = 0; i < totalKeys.length; i++) {
+    itfValuesOfAllKeywords[i] = 0;
+  }
+  for (let row = 0; row < totalNoOfDoc; row++) {
+    const curr_keyWordArray = keyword_extractor.extract(
+      data[row].value.toLowerCase(),
+      {
+        language: "english",
+        remove_digits: true,
+        return_changed_case: true,
+        remove_duplicates: true,
+      }
+    );
+    let count = 0;
+    for (let col = 0; col < totalKeys.length; col++) {
+      const keyW = totalKeys[col];
+      if (curr_keyWordArray.includes(keyW)) itfValuesOfAllKeywords[col]++;
+    }
+  }
+  for (let i = 0; i < totalKeys.length; i++) {
+    itfValuesOfAllKeywords[i] = totalNoOfDoc / itfValuesOfAllKeywords[i];
+  }
+  console.log(itfValuesOfAllKeywords); //ITF matrix
+});
+
 //no. of columns=length of keywordArrayOfAll
 //no. of rows= no. of documents=totalNoOfDoc
-let matrix = [];
-// for (let row = 0; row < totalNoOfDoc; row++) {}
-async function readFiles2(dirname, keyword) {
-  let count = 0;
-  await fs.readdir(dirname, async function (err, filenames) {
-    await filenames.forEach(async function (filename) {
-      await fs.readFile(
-        dirname + filename,
-        "utf-8",
-        async function (err, content) {
-          if (await content.toLowerCase().includes(keyword.toLowerCase())) {
-            count++;
-          }
-        }
-      );
-    });
-  });
-  console.log(count);
-  return count;
-}
-
-// const getCountOfKeyword = async (keyword) => {
-//   let countPromise = readFiles2(ProblemDirectory, keyword);
-//   let count = await countPromise;
-//   console.log(count);
-// };
-readFiles2(ProblemDirectory, "determine").then((data) => {
-  console.log(data);
-});
