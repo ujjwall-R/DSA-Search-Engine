@@ -31,7 +31,7 @@ router.get("/hi", async (req, res) => {
 //@description:search a text
 //public
 //
-router.get("/search/text", async (req, res) => {
+router.post("/search/text", async (req, res) => {
   try {
     const text = req.body.text;
     let search_result = await tf_idf.rankDocumentsByQuery(text);
