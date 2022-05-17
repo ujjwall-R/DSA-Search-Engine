@@ -9,6 +9,7 @@ const SearchPage = () => {
     questionsFound: [],
     urls: [],
     titles: [],
+    contents: [],
   });
 
   const textChangeHandler = (event) => {
@@ -30,11 +31,7 @@ const SearchPage = () => {
       </h2>
       <p className="green-link">{searchResult.urls[i]}</p>
       <span className="down-arrow" />
-      <p>
-        March 20, 2019, having never done any web developement work before,
-        Dylan Maloney set out on a great adventure of learning and enrichment.
-        From analog to the digital realm he...
-      </p>
+      <p>{searchResult.contents[i]}</p>
     </li>
   ));
 

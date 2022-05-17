@@ -40,18 +40,24 @@ router.post("/search/text", async (req, res) => {
     let questionsFound = [];
     let urls = [];
     let titles = [];
+    let contents = [];
     search_result.forEach((element, i) => {
       questionsFound[i] = fileNames[element.index];
     });
     questionsFound.forEach((element, i) => {
       titles[i] = element.substring(element.lastIndexOf("/") + 1);
       titles[i] = titles[i].slice(0, -4);
+      contents[i] =
+        fs
+          .readFileSync(`../DataSet/Problems/${titles[i]}.txt`)
+          .toString()
+          .slice(2, 350) + "...";
     });
     titles.forEach((element, i) => {
       urls[i] = `https://www.codechef.com/problems/${element}`;
     });
 
-    res.send({ questionsFound, urls, titles });
+    res.send({ questionsFound, urls, titles, contents });
   } catch (error) {
     res.send(error);
   }
