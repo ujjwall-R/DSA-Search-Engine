@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { searchText } from "../actions/searchAction";
 import "./SearchPage.css";
 import Logo from "./logo.png";
+import { Link } from "react-router-dom";
 
 const SearchPage = () => {
   const [text, settext] = useState("");
@@ -21,70 +22,117 @@ const SearchPage = () => {
     event.preventDefault();
     const results = await searchText(text);
     if (results) setsearchResult(results);
-    console.log(results);
+    // console.log(results);
   };
 
   const listItems = searchResult.questionsFound.map((question, i) => (
-    <li>
+    <li className="searches">
       <h2 className="result-link">
         <a href={searchResult.urls[i]}>{searchResult.titles[i]}</a>
       </h2>
       <p className="green-link">{searchResult.urls[i]}</p>
       <span className="down-arrow" />
-      <p>{searchResult.contents[i]}</p>
+      <p className="searchText">{searchResult.contents[i]}</p>
     </li>
   ));
 
   return (
     <div>
+      {/* Google Fonts */}
+      <link
+        href="https://fonts.googleapis.com/css?family=Roboto:400,100,300,300italic,400italic,700,700italic,100italic"
+        rel="stylesheet"
+        type="text/css"
+      />
+      <link
+        href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,300italic,400italic,600italic|Open+Sans+Condensed:300"
+        rel="stylesheet"
+        type="text/css"
+      />
+      {/* Website Title & Description */}
+      <title>Acronym Lookup Tool</title>
+      <meta name="description" content="The replacement to WorkFaster 3" />
+      <link rel="icon" href="#0" type="image/gif" sizes="32x32" />
+      {/* Mobile viewport optimized */}
+      <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+      />
+      {/* Internet Explorer Compatibility string */}
+      <meta httpEquiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+      {/* CSS */}
+      <link
+        rel="stylesheet"
+        type="text/css"
+        href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css"
+      />
+      <link rel="stylesheet" type="text/css" href="styles.css" />
+      {/* JS */}
+      {/*?php include ("counter.php"); ?*/}
       <header>
-        <div>
-          {/* <img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" /> */}
-          <img className="logoKgp" src={Logo} />
-
-          <div className="search-box">
-            <form onSubmit={submitHandler}>
-              <input
-                type="search"
-                name="search"
-                onChange={textChangeHandler}
-                className="search-prompt"
-              />
-            </form>
-          </div>
-          <div className="nav-right">
-            <img
-              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMG6DsqfFZ-Mlo3ULMOs6CqBqBuSLUT5_OZv82wlZVs_LnHFGgZg"
-              alt="Googleapps"
-              height="16px"
-              width="16px"
+        <h1>ALGoGle</h1>
+      </header>
+      <div id="searcharea">
+        <div className="center-form">
+          <div id="checkboxes"></div>
+          <form onSubmit={submitHandler}>
+            <label htmlFor="search">
+              <i className="fa fa-search" aria-hidden="true" />
+            </label>
+            <input
+              id="search"
+              name="search"
+              type="search"
+              list="searchHelper"
+              placeholder="Type text or problem to search..."
+              onChange={textChangeHandler}
             />
-            <a href="index.html">
-              <button>Sign in</button>
-            </a>
+            <datalist id="searchHelper" />
+            <button type="submit" className="button" id="searchButton">
+              Search
+            </button>
+            <button type="reset" className="button clear" id="clearButton">
+              Clear
+            </button>
+          </form>
+          {listItems}
+        </div>
+      </div>
+      {/* 
+<div class="info-alert">
+  <p class="info-alert-text">Thank you for the feedback, we have updated the list with over 280 new terms!</p>
+</div>
+*/}
+      <div id="searchUpdate">{/*?php include('loader01.html'); ?*/}</div>
+      <footer>
+        <div className="container">
+          <div className="row">
+            <div className="row-item one">
+              <p>
+                <Link
+                  to="/about"
+                  style={{
+                    textDecoration: "none",
+                  }}
+                >
+                  About the developer
+                </Link>
+              </p>
+            </div>
+            <div className="row-item two">
+              <div>
+                {/* <img id="countMe" src="sdfavi.png" /> */}
+                <p>Copyright Ⓒ 2022 Ujjwal R.</p>
+                {/*<?php
+                    echo(''); ?> */}
+              </div>
+            </div>
+            <div className="row-item three">
+              <p>To suggest changes in corpus, please contact.</p>
+            </div>
           </div>
         </div>
-        <hr />
-      </header>
-      <main>
-        <ul>
-          {/* <li>
-            <h2 className="result-link">
-              <a href="Google.com">Google Homepage</a>
-            </h2>
-            <p className="green-link">
-              https://proto-dylan.github.io/google-homepage/
-            </p>
-            <span className="down-arrow" />
-            <p>
-              March 20, 2019, having never done any web developement work
-              before, Dylan Maloney set out on a great adventure of learning and
-              enrichment. From analog to the digital realm he...
-            </p>
-          </li> */}
-          {listItems}
-        </ul>
-      </main>
+      </footer>
     </div>
   );
 };

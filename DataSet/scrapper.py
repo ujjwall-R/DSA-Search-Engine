@@ -52,8 +52,11 @@ if len(all_ques) > 0:
         time.sleep(5)
         html = driver.page_source
         soup = BeautifulSoup(html, 'html.parser')
-        problem_statement = soup.find(
-            'div', {'class': 'problem-statement'}).text
+        try:
+            problem_statement = soup.find(
+                'div', {'class': 'problem-statement'}).text
+        except:
+            continue
         print("")
         with open(f'Problems/{currQCode}.txt', "w+") as f:
             f.write(problem_statement)
