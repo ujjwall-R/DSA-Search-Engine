@@ -12,6 +12,7 @@ const SearchPage = () => {
     titles: [],
     contents: [],
   });
+  const [loading, setloading] = useState("");
 
   const textChangeHandler = (event) => {
     settext(event.target.value);
@@ -20,8 +21,14 @@ const SearchPage = () => {
 
   const submitHandler = async (event) => {
     event.preventDefault();
+    setloading("Loading...");
+    const mess = <>{loading}</>;
     const results = await searchText(text);
-    if (results) setsearchResult(results);
+    if (results) {
+      setsearchResult(results);
+      setloading("");
+      mess = <></>;
+    }
     // console.log(results);
   };
 
@@ -95,6 +102,7 @@ const SearchPage = () => {
               Clear
             </button>
           </form>
+          {loading}
           {listItems}
         </div>
       </div>
